@@ -1,0 +1,6 @@
+{
+  "name": "Viral Trend Agent",
+  "description": "AI-powered short-form social media trend generator and Google Sheets exporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
